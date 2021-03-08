@@ -1,3 +1,5 @@
+package contracts
+
 import org.springframework.cloud.contract.spec.Contract
 
 Contract.make {
@@ -15,7 +17,7 @@ Contract.make {
         }
         body (
                 id: "1",
-                fullName: "foo"
+                name: "foo"
         )
     }
 }
