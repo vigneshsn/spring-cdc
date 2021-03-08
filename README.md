@@ -1,2 +1,2 @@
 # spring-cdc
-Understanding Spring consumer driver contract testing
+Understanding Spring consumer driven contract testing
